@@ -1,0 +1,127 @@
+{
+"projectsCompleted":[
+   {
+      "id": 1,
+      "name": "HLB on PENNA RIVER NEAR in KADAPA District.",
+      "details": "Consultancy Services for preparation of detailed Project Report for Construction of High-Level Bridge across Penna River in KM 0/0 to 1/2 of Proddatur - Rayalaseema Thermal Power Project (RTPP) Road in YSR District in the State of Andhra Pradesh.",
+      "client": "R&B, Government of Andhra Pradesh-2022",
+      "bridgeLength": "660.0m",
+      "servicesRendered": "DPR & Detail Designs For Major Bridge and Approaches ",
+      "budget": "53cr",
+      "imageUrl": "/assets/RTPP/RTPP-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "HLB on NAGAVALI  RIVER NEAR in Srikakulam District.",
+        "details": " Consultancy Services for preparation of Detailed Project Report for  Construction of Bridge across Nagavali River near Balasalarevu connecting Waltair (v) in Santhakaviti mandal and Isakalapeta (v) in Amadalavalasa mandal in Srikakulam District in the State of Andhra Pradesh.",
+        "client": "R&B, Government of Andhra Pradesh-2022",
+        "bridgeLength": "480.0m",
+        "servicesRendered": "DPR For Major Bridge and Approaches of 2.0km",
+        "budget": "87cr",
+        "imageUrl": "/assets/RTPP/RTPP-1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "HLB on PAPAGNI  RIVER on Sate Highway in YSR KADAPA District.",
+        "details": "Consultancy services towards preparation of DPR for Construction of High Level Bridge (HLB) at Km.38/6 to 39/527 of Kadiri – Vempalli road (via) Kolekanuma, Addalamarri and Gandi Kshetram in YSR District, including designs,drawings, proof checking from IIT, preparation of tender documents, land plan schedules for approaches, etc.",
+        "client": "R&B, Government of Andhra Pradesh-2023",
+        "bridgeLength": "476.0m",
+        "servicesRendered": "DPR & Detail Designs For Major Bridge and Approaches ",
+        "budget": "53cr",
+        "imageUrl": "/assets/RTPP/RTPP-1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "HLB on VRUDHA GOWTHAMI GODAVARI NEAR GOGULALANKA in East Godavari",
+        "details": "Consultancy Services for preparation of detailed Project Report for Construction of High-Level Bridge across VRUDHA GOWTHAMI GODAVARI NEAR GOGULALANKA in KM 0/0 to 1/2 in the State of Andhra Pradesh.",
+        "client": "R&B, Government of Andhra Pradesh-2021",
+        "bridgeLength": "300.0m",
+        "servicesRendered": "DPR For Major Bridge and Approaches ",
+        "budget": "53cr",
+        "imageUrl": "/assets/AMP/AMP-3.jpg"
+    },
+    {
+        "id": 5,
+        "name": " DPR for the Work Construction of High Level Bridge across  Paleru vagu",
+        "details": "Preparation of DPR for the Work Construction of High Level Bridge across  Paleru vagu on the road from Akumalla to Banaganapalle via sivavaram Niluvugandla and Thamamadapalle of sanjamala mandal of kurnool district",
+        "client": "PANCHAYAT RAJ, Government of Andhra Pradesh-2021",
+        "bridgeLength": "130.0m",
+        "servicesRendered": "DPR For Major Bridge and Approaches ",
+        "budget": "6.75cr",
+        "imageUrl": "/assets/RTPP/RTPP-1.jpg"
+    },
+    {
+        "id": 6,
+        "name": "DPR for the work Construction of High level Bridge across Vakkileru vagu",
+        "details": "Preparation of DPR for the work Construction of High level Bridge across Vakkileru vagu on the road from sirivella to chandalur via perur  Yerragudidinne and chilakalur of sirvella mandal of kurnool district.",
+        "client": "PANCHAYAT RAJ, Government of Andhra Pradesh-2021",
+        "bridgeLength": "120.0m",
+        "servicesRendered": "DPR For Major Bridge and Approaches ",
+        "budget": "7.26cr",
+        "imageUrl": "/assets/RTPP/RTPP-1.jpg"
+    },
+    {
+        "id": 7,
+        "name": "High Level Bridge across Kundara Vagu",
+        "details": "Construction of High Level Bridge across Kundara Vagu on road from Kondupalli to Uyyalawada via R.Papampalli of Uyyalawada Mandal",
+        "client": "PANCHAYAT RAJ, Government of Andhra Pradesh-2021",
+        "bridgeLength": "110.0m",
+        "servicesRendered": "DPR For Major Bridge and Approaches ",
+        "budget": "5.0cr",
+        "imageUrl": "/assets/RTPP/RTPP-1.jpg"
+    },
+    {
+        "id": 8,
+        "name": "High-Level Bridge across Local Vagu",
+        "details": "Construction of High-Level Bridge across Local Vagu on IRIS Project in Kadapa.",
+        "client": "Skandhanshi Infra Projects",
+        "bridgeLength": "660.0m",
+        "servicesRendered": "DPR & Detail Designs For Major Bridge and Approaches ",
+        "budget": "5cr",
+        "imageUrl": "/assets/RTPP/RTPP-1.jpg"
+    }
+
+  ],
+  "ongoingProjects":[
+    {
+        "id": 1,
+        "name": "ROB on LC.No.2 E at Rly Km 1/3-4 of Dharmavaram – Pakala Section.",
+        "details": "Conducting Survey, Soil Investigation, Designs & drawings and complete DPR for Construction of ROB in lieu of LC.No.2 E at Rly Km 1/3-4 of Dharmavaram – Pakala Section on Damajipalli – Tadipatri road at Km 17/2 in Ananthapuramu District. ",
+        "client": " R&B, Government of Andhra Pradesh Under SETU BANDHAN Scheme",
+        "bridgeLength": "2.1 KM Including Approaches",
+        "servicesRendered": "DPR For ROB and Approaches",
+        "budget": "50.0cr",
+        "imageUrl": "/assets/RTPP/RTPP-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "High-Level Bridge across Local Vagu",
+        "details": "DETAILED ENGINEERING SERIVICES FOR “Widening/ Improvement To 4 (Four) Lane Paved Shoulder from Km 146+246 To Km 157+460 (Design Chainage 145+712 To 156+634) Of Dillai-Lahorijan (Package-7) Of Nh 29 In the State of Assam on EPC Mode",
+        "client": "NHIDCL, & M/S Shankar Agarwal",
+        "bridgeLength": "400.0m",
+        "servicesRendered": "Detailed Engineering Services ",
+        "budget": "5cr",
+        "imageUrl": "/assets/RTPP/RTPP-1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "High-Level Bridge across Local Vagu",
+        "details": "Conducting Survey, Soil Investigation, Designs &drawings and complete DPR for “Reconstruction of Bridge on Old NH5 of VB Road at Km 227/8 in Itchapuram Municipality limits in Srikakulam District (SKMD 013.",
+        "client": "R&B, Government of Andhra Pradesh-2022",
+        "bridgeLength": "170.0m",
+        "servicesRendered": "DPR & Detail Designs For Major Bridge and Approaches ",
+        "budget": "5cr",
+        "imageUrl": "/assets/RTPP/RTPP-1.jpg"
+    },
+    {
+        "id": 4,
+        "name": "High-Level Bridge across Local Vagu",
+        "details": " Conducting Survey, Soil Investigation, Designs &drawings and complete DPR for Construction of High-Level Bridge across Chitravathi River in Km 1/3 To 1/4 of Dharmavaram Dharmapuri road In Sri Satya Sai District",
+        "client": "R&B, Government of Andhra Pradesh-2022",
+        "bridgeLength": "160.0m",
+        "servicesRendered": "DPR & Detail Designs For Major Bridge and Approaches ",
+        "budget": "40cr",
+        "imageUrl": "/assets/RTPP/RTPP-1.jpg"
+    }
+  ]
+}

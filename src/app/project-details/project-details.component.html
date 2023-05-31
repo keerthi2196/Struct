@@ -1,0 +1,22 @@
+<div class="container mt-3" *ngIf="project">
+    <div class="card shadow-lg rounded">
+      <img class="card-img-top rounded-top" [src]="project.imageUrl" alt="Project image">
+      <div class="card-body">
+        <h5 class="card-title text-uppercase text-primary">{{ project.name }}</h5>
+        <p class="card-text mt-4">{{ project.details }}</p>
+        <dl class="row mt-4">
+          <dt class="col-sm-3">Client</dt>
+          <dd class="col-sm-9">{{ project.client }}</dd>
+
+          <dt class="col-sm-3">Bridge Length</dt>
+          <dd class="col-sm-9">{{ project.bridgeLength }}</dd>
+
+          <dt class="col-sm-3">Services Rendered</dt>
+          <dd class="col-sm-9">{{ project.servicesRendered }}</dd>
+
+          <dt class="col-sm-3">Budget</dt>
+          <dd class="col-sm-9">{{ project.budget }}</dd>
+        </dl>
+      </div>
+    </div>
+  </div>

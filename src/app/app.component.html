@@ -1,0 +1,41 @@
+<mat-toolbar class="my-toolbar navbar navbar-expand-lg" [ngClass]="{'navbar-transparent': isNavbarTransparent}">
+  <a class="navbar-brand" href="#"><img src="../assets/company_logo.png" alt="Company Logo" class="company-logo"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/home" (click)="setActiveButton('')">Home</a>
+      </li>
+
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="dropdownMenuButton" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Sectors
+        </a>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a class="dropdown-item"  (click) = "setActiveButton('Bridges and flyovers')">Bridges and flyovers</a>
+          <a class="dropdown-item" (click) = "setActiveButton('Highway and Pavement')">Highway and Pavement</a>
+          <a class="dropdown-item" (click) = "setActiveButton('Traffic Studies')">Traffic Studies</a>
+          <a class="dropdown-item" (click) = "setActiveButton('Building Structures')">Building Structures</a>
+        </div>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/projects">Projects</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/services">Services</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/about-us">About Us</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" routerLink="/contact">Contact</a>
+      </li>
+    </ul>
+  </div>
+</mat-toolbar>
+
+<router-outlet></router-outlet>

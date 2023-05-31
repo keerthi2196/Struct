@@ -1,0 +1,39 @@
+<div class="container-fluid">
+  <div class="row justify-content-center">
+    <div class="col-12">
+      <h1 class="text-center">PROJECTS COMPLETED</h1>
+    </div>
+  </div>
+
+  <div class="row justify-content-center">
+    <div class="projects-container" >
+      <div class="card shadow" data-aos="zoom-in" data-aos-duration="1000" *ngFor="let completedProject of projects.projectsCompleted">
+        <figure class="image-card">
+          <a [routerLink]="['/project-detail', completedProject.id]">
+          <img [src]="completedProject.imageUrl" class="card-img-top animate__animated animate__fadeIn" alt="Project Image">
+          <figcaption class="image-caption">{{ completedProject.name }}</figcaption>
+        </a>
+        </figure>
+      </div>
+    </div>
+  </div>
+
+  <div class="row justify-content-center">
+    <div class="col-12">
+      <h1 class="text-center">ONGOING PROJECTS</h1>
+    </div>
+  </div>
+
+  <div class="row justify-content-center">
+    <div class="projects-container" >
+      <div class="card shadow" data-aos="zoom-in" data-aos-duration="1000" *ngFor="let ongoingProject of projects.ongoingProjects">
+        <figure class="image-card">
+            <a [routerLink]="['/project-detail', ongoingProject.id]">
+          <img [src]="ongoingProject.imageUrl" class="card-img-top animate__animated animate__fadeIn" alt="Project Image">
+          <figcaption class="image-caption">{{ ongoingProject.name }}</figcaption>
+        </a>
+        </figure>
+      </div>
+    </div>
+  </div>
+</div>

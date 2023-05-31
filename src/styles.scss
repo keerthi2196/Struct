@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+@import 'aos/dist/aos.css';
+body {
+    padding-top: 70px; /* Adjust this value based on the height of your navbar */
+  }

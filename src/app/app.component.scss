@@ -1,0 +1,85 @@
+
+
+  .carousel-image {
+    height: 500px;  /* Adjust this value to your needs */
+    object-fit: cover;
+  }
+
+  .my-toolbar .btn-link {
+    text-decoration: none;  /* remove underline */
+  }
+
+  .my-toolbar .btn-link:hover {
+    border-bottom: 2px solid white;  /* add underline on hover */
+  }
+
+  .company-header {
+    text-align: center;
+  }
+
+  .company-logo {
+    width: 150px;
+    height: auto;
+    margin-bottom: 10px;
+  }
+
+  .my-toolbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: whitesmoke; /* Set your desired background color with transparency */
+    position: fixed;
+    top: 0;
+    width: 100%;
+    transition: background-color 0.1s ease-in-out;
+    z-index: 100;
+  }
+
+//   .navbar-transparent {
+//     background-color: transparent !important;
+//     box-shadow: none !important;
+//   }
+
+.text{
+    color:chocolate;
+}
+
+::ng-deep .navbar {
+  background-color: #f8f9fa;
+}
+
+::ng-deep .navbar-brand {
+  margin-right: 1rem;
+}
+
+::ng-deep .navbar-nav .nav-link {
+  color: #333;
+}
+
+::ng-deep .navbar-toggler {
+  border-color: #333;
+}
+
+::ng-deep .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='%23333' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+}
+
+// ::ng-deep .navbar-transparent {
+//   background-color: transparent !important;
+// }
+
+@media (max-width: 992px) {
+  ::ng-deep .navbar {
+    padding: .5rem 1rem;
+  }
+
+  ::ng-deep .navbar-brand {
+    margin-right: 0;
+  }
+}
+
+::ng-deep .navbar-nav {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
